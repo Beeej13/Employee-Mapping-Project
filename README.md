@@ -1,4 +1,7 @@
 # Employee-Mapping-Project
+**Objective**
+To facilitate a better understanding, managers have provided ratings for each employee which will help the HR department to finalize the employee performance mapping. Find the maximum salary of the employees and ensure that all jobs are meeting the organization's profile standard. You also need to calculate bonuses to find extra cost for expenses. This will raise the overall performance of the organization by ensuring that all required employees receive training.
+
 Showcasing of SQL queries and their functionality mapping out employees in a company
 
 1. List employees and their respective dept.
